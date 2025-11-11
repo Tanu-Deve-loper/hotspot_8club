@@ -1,8 +1,8 @@
-**Hotspot Host Onboarding App**
+## Hotspot Host Onboarding App
 
 A Flutter app I built for the Hola9 internship assignment. This helps onboard new hosts through a simple questionnaire where they can select experiences they want to host and answer questions about their motivation.
 
-**What I Built**
+## **What I Built**
 
 This is a two-screen onboarding flow:
 
@@ -91,21 +91,20 @@ This was my first time working with audio/video recording in Flutter. The tricky
 
 I focused on getting core features working properly rather than adding animations that would need extra time without adding much functional value.
 
-**API Used**
+## API Used
 
 URL: 
 https://staging.chamberofsecrets.8club.co/v1/experiences?active=true 
 Method: GET
 
 
-Screenshots
 
 ## Screenshots
 
-![Experience Selection](screenshots/Screen1.png)
-![Experience Selection](screenshots/Screen2.png)
-![Question Screen](screenshots/Screen3.png)
-![Audio Recording](screenshots/Screen4.png)
+![Experience Selection](screenshots/Screen1.jpg)
+![Experience Selection](screenshots/Screen2.jpg)
+![Question Screen](screenshots/Screen3.jpg)
+![Audio Recording](screenshots/Screen4.jpg)
 
 
 ## Demo Video
