@@ -100,6 +100,14 @@ Method: GET
 
 Screenshots
 
+## Screenshots
 
-Demo Video
-[Add video link here]
+![Experience Selection](screenshots/Screen1.png)
+![Experience Selection](screenshots/Screen2.png)
+![Question Screen](screenshots/Screen3.png)
+![Audio Recording](screenshots/Screen4.png)
+
+
+## Demo Video
+
+[Watch Demo Video](https://drive.google.com/file/d/1XNa1dErbOV_YGXdLQfUQc2wExAQQVgiZ/view?usp=drive_link)
